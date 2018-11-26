@@ -8,7 +8,7 @@ Querying device properties
 - check the docs for further properties
 
 ## Compilation
-      # run from repo dir
-      nvcc -o out/device-query device-query.cu
+    # run from repo dir
+    nvcc -o out/device-query device-query.cu
 ## TODOs
 - Translate README.md to french
