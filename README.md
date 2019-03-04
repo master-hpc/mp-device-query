@@ -1,5 +1,5 @@
 # "Device Query"
-Querying device properties
+> Querying device properties
 
 ## Notes
 - from the command line, "nvidia-smi" cmd can be used (or "watch nvidia-smi" for realtime updates)
